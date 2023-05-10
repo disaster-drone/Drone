@@ -1,7 +1,9 @@
 # Drone
 ![drone11](https://github.com/disaster-drone/Drone/assets/94029910/97809085-ad38-4940-ab71-0caa16a2bf8d)
 
+## Description
 As the CSE team, we built our own drone to gather a dataset for testing our system. Since the EE team we are collaborating with wasn't ready to fly their drone, we took matters into our own hands. We focused on a small house built in 2017 as a senior design project for CAPPA students. You can see the 3D model of this house produced by our system in the Results Section.
+
 
 
 # Drone Parts List
@@ -28,7 +30,6 @@ Here3+ RTK GPS (QTY 1)
 
 Herelink Air and Ground Unit (QTY 1)
 
-[Combo pack with all of the above](https://irlock.com/collections/combos/products/cube-orange-w-here3-rfd900x-us-telemetry-set) (QTY 1)
 
 ## Motors, ESCs, Propellers
 [2212 920KV Brushless Motors](https://www.amazon.com/dp/B075DD16LK?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_5F3DHQV6FFX43MVR2MWD) (QTY 1)
