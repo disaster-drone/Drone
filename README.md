@@ -73,6 +73,10 @@ Herelink Air and Ground Unit (QTY 1)
 ## 3D Printed Parts
 S500/550 CubeOrange Vibration Mount (QTY 1)
 
+Here3 Straddle Mount (QTY 1)
+
+Note: 3D Printed Parts can be found [here](https://github.com/cmcmurrough/cse4316/tree/master/drones/3D%20print)
+
 # Wiring Diagram
 (put here when finished)
 
