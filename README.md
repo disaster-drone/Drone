@@ -63,9 +63,6 @@ Herelink Air and Ground Unit (QTY 1)
 
 [Rubberized battery straps](https://a.co/d/70QMaeb) (QTY 1)
 
-# Results
-(put video here)
-
 [Double sided removable mounting tape](https://a.co/d/fiZDj8U) (QTY 1)
 
 [Zip ties 3.6mm](https://a.co/d/eXtMxMU) (QTY 1)
@@ -74,4 +71,10 @@ Herelink Air and Ground Unit (QTY 1)
 
 ## 3D Printed Parts
 S500/550 CubeOrange Vibration Mount (QTY 1)
+
+# Wiring Diagram
+(put here when finished)
+
+# Results
+(put video here)
 
