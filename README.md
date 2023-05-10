@@ -3,9 +3,6 @@
 As the CSE team, we built our own drone to gather a dataset for testing our system. Since the EE team we are collaborating with wasn't ready to fly their drone, we took matters into our own hands. We focused on a small house built in 2017 as a senior design project for CAPPA students. You can see the 3D model of this house produced by our system in the Results Section.
 
 
-![image](https://github.com/disaster-drone/Drone/assets/94029910/941d6a2d-9fb3-48da-9390-88655f7d91a4)
-
-
 # Drone Parts List
 ## Airframe components
 [S500 Quadcopter frame](https://www.amazon.com/dp/B01N0AX1MZ?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_3EBSD9N5RH0X0F3YQ54M) (QTY 1)
