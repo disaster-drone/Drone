@@ -78,8 +78,6 @@ Here3 Straddle Mount (QTY 1)
 Note: 3D Printed Parts can be found [here](https://github.com/cmcmurrough/cse4316/tree/master/drones/3D%20print)
 
 # Wiring Diagram
-(put here when finished)
-
-# Results
-(put video here)
+![Disaster_Drone_Wiring_Diagram_10mb](https://github.com/disaster-drone/Drone/assets/94029910/a5e0e96b-a951-451d-bd33-6582cfb28fd5)
+Note: We got this diagram from https://ardupilot.org/copter/docs/common-thecubeorange-overview.html. We edited it to fit our parts.
 
