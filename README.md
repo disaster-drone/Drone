@@ -2,7 +2,7 @@
 ![drone11](https://github.com/disaster-drone/Drone/assets/94029910/97809085-ad38-4940-ab71-0caa16a2bf8d)
 
 ## Description
-As the CSE team, we built our own drone to gather a dataset for testing our system. Since the EE team we are collaborating with wasn't ready to fly their drone, we took matters into our own hands. We focused on a small house built in 2017 as a senior design project for CAPPA students. You can see the 3D model of this house produced by our system in the Results Section.
+As the CSE team, we built our own drone to gather a dataset for testing our system. Since the EE team we collaborated with wasn't ready to fly their drone, we took matters into our own hands. We focused on a small house built in 2017 as a senior design project for CAPPA students. You can see the 3D model of this house produced by our system in the VR Environment Repository.
 
 
 
